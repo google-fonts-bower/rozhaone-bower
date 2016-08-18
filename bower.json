@@ -1,0 +1,17 @@
+{
+    "name": "rozhaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/rozhaone-bower.git"
+    },
+    "description": "Rozha One font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
